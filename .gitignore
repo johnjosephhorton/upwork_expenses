@@ -1,0 +1,8 @@
+probable_junk
+__pycache*
+*csv
+*~
+*pdf
+*env
+gen*
+*docx
